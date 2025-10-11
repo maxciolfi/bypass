@@ -1,7 +1,8 @@
-# M. C. Consulting Bypass NRO Win 11 Pro testato 
+# M. C. Consulting Bypass nro  Win 11 Pro testato  account locale
+
 Win 11 schermata iniziale Shift + F10 
 
-Imposta lingua italiana account Max
+Imposta lingua italiana e tastiera italiano crea un account Max Amministratore
 
 ```
 curl -L mciolfi.me.com/bypass -o nome.cmd
