@@ -1,4 +1,4 @@
-# M. C. Consulting Bypass nro  Win 11 Pro testato  account locale
+# M. C. Consulting Bypass nro  Win 11 24H2 Funziona account locale
 
 Win 11 schermata iniziale Shift + F10 
 
