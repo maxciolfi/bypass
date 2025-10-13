@@ -1,4 +1,4 @@
-# M. C. Consulting Bypass nro Testato con Win 11 24H2/25h2 account locale
+# M. C. Consulting Bypass nro Testato con Win 11 24H2/25H2 account locale
 
 Win 11 schermata iniziale Shift + F10 
 
